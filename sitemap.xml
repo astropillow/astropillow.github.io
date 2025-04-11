@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://mahpour.org/</loc>
+    </url>
+    <url>
+        <loc>https://mahpour.org/about/</loc>
+    </url>
+    <url>
+        <loc>https://mahpour.org/about/andor/</loc>
+        <lastmod>2020-11-27</lastmod>
+    </url>
+    <url>
+        <loc>https://mahpour.org/categories/</loc>
+    </url>
+    <url>
+        <loc>https://mahpour.org/posts/</loc>
+    </url>
+    <url>
+        <loc>https://mahpour.org/posts/2025-03-02/</loc>
+        <lastmod>2019-11-27</lastmod>
+    </url>
+    <url>
+        <loc>https://mahpour.org/tags/</loc>
+    </url>
+</urlset>

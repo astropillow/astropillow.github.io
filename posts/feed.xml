@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>My Blog</title>
+	<subtitle>My blog site.</subtitle>
+	<link href="https://mahpour.org/posts/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://mahpour.org/posts/"/>
+	<updated>2019-11-27T00:00:00+00:00</updated>
+	<id>https://mahpour.org/posts/feed.xml</id>
+	<entry xml:lang="en">
+		<title>My first post</title>
+		<published>2019-11-27T00:00:00+00:00</published>
+		<updated>2019-11-27T00:00:00+00:00</updated>
+		<link href="https://mahpour.org/posts/2025-03-02/" type="text/html"/>
+		<id>https://mahpour.org/posts/2025-03-02/</id>
+		<content type="html">&lt;p&gt;This is my first blog post.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
