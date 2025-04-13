@@ -1,13 +1,13 @@
 +++
-title = "About me"
-description = "About page of ..."
+title = "About me (edit)"
+description = "About page of ...(edit)"
 template = "prose.html"
 insert_anchor_links = "none"
 
 [extra]
 lang = 'en'
 
-title = "Posts"
+title = "About (edit)"
 subtitle = "I write about ...."
 
 math = false

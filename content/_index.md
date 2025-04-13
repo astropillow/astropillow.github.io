@@ -8,8 +8,8 @@ lang = 'en'
 footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
-name = "Serene Demo"
-id = "serene"
+name = "Serene Demo (edit)"
+id = "serene (edit)"
 bio = "programmer, he/him, we are young and life is fun"
 avatar = "img/avatar.webp"
 links = [
@@ -22,7 +22,7 @@ links = [
 recent = false
 recent_max = 15
 recent_more_text = "more »"
-date_format = "%b %-d, %Y"
+date_format = "%Y %b %-d"
 +++
 
 Hi, I'm here still...
