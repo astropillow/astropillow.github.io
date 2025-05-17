@@ -7,7 +7,7 @@ insert_anchor_links = "none"
 [extra]
 lang = 'en'
 
-title = "About me:
+title = "About me:"
 subtitle = "------"
 
 math = false
