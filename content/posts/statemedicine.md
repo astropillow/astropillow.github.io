@@ -2,7 +2,7 @@
 title = "State of Medicine"
 date = 2025-04-14
 updated = 2025-05-01
-draft = true
+draft = false
 
 [taxonomies]
 categories = ["one"]
