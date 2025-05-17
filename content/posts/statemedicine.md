@@ -5,8 +5,8 @@ updated = 2025-05-01
 draft = false
 
 [taxonomies]
-categories = ["one"]
-tags = ["one", "two", "three"]
+# categories = ["medicine"]
+# tags = ["one", "two", "three"]
 
 [extra]
 lang = "en"
