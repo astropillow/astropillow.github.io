@@ -5,8 +5,8 @@ updated = 2025-05-01
 draft = false
 
 [taxonomies]
-# categories = ["medicine"]
-# tags = ["one", "two", "three"]
+categories = ["informatics"]
+tags = ["artificial intelligence", "policy"]
 
 [extra]
 lang = "en"
