@@ -1,14 +1,14 @@
 +++
-title = "About me (edit)"
-description = "About page of ...(edit)"
+title = "Mahpour: About me"
+description = "About page"
 template = "prose.html"
 insert_anchor_links = "none"
 
 [extra]
 lang = 'en'
 
-title = "About (edit)"
-subtitle = "I write about ...."
+title = "About me:
+subtitle = "------"
 
 math = false
 mermaid = false
@@ -17,4 +17,4 @@ comment = false
 reaction = false
 +++
 
-Hi, My name is ....
+Technology marches forward. Data accumulates. I am interested in researching the adoption and utilization of leading technological advances in healthcare.

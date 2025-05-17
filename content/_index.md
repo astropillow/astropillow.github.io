@@ -8,13 +8,13 @@ lang = 'en'
 footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
-name = "Serene Demo (edit)"
-id = "serene (edit)"
-bio = "programmer, he/him, we are young and life is fun"
+name = "Amirali Mahpour"
+id = "@amahpour"
+bio = "Data is Powerful!"
 avatar = "img/avatar.webp"
 links = [
-    { name = "GitHub", icon = "github", url = "https://github.com/<your-username>" },
-    { name = "Twitter", icon = "twitter", url = "https://twitter.com/<your-username>" },
+    { name = "GitHub", icon = "github", url = "https://github.com/astropillow" },
+    { name = "LinkedIn", icon = "linkedin", url = "https://www.linkedin.com/in/amirali-mahpour-8665b0361/" },
     { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
 ]
 
@@ -25,4 +25,4 @@ recent_more_text = "more »"
 date_format = "%Y %b %-d"
 +++
 
-Hi, I'm here still...
+I write about health, technology, and clinical informatics.
