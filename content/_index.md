@@ -13,7 +13,7 @@ id = "amahpour"
 bio = "Data is Powerful!"
 avatar = "img/avatar.webp"
 links = [
-    { name = "GitHub", icon = "github", url = "https://github.com/astropillow" },
+#    { name = "GitHub", icon = "github", url = "https://github.com/astropillow" },
     { name = "LinkedIn", icon = "linkedin", url = "https://www.linkedin.com/in/amirali-mahpour-8665b0361/" },
     { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
 ]
