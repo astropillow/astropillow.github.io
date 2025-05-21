@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Musings on Informatics</title>
+	<subtitle>List of posts and categories</subtitle>
+	<link href="https://mahpour.org/posts/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://mahpour.org/posts/"/>
+	<updated>2025-05-01T00:00:00+00:00</updated>
+	<id>https://mahpour.org/posts/feed.xml</id>
+	<entry xml:lang="en">
+		<title>State of Medicine</title>
+		<published>2025-04-14T00:00:00+00:00</published>
+		<updated>2025-05-01T00:00:00+00:00</updated>
+		<link href="https://mahpour.org/posts/statemedicine/" type="text/html"/>
+		<id>https://mahpour.org/posts/statemedicine/</id>
+		<content type="html">&lt;p&gt;This is a post about the current &lt;em&gt;state of medicine&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
