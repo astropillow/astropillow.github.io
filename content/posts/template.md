@@ -2,11 +2,11 @@
 title = "State of Medicine"
 date = 2025-04-14
 updated = 2025-05-01
-draft = false
+draft = true
 
 [taxonomies]
-categories = ["Healthcare"]
-tags = ["medicine"]
+categories = ["informatics"]
+tags = ["artificial intelligence", "policy"]
 
 [extra]
 lang = "en"
@@ -21,5 +21,4 @@ featured = false
 reaction = false
 +++
 
-This is a post about the current *state of medicine*.
-
+CONTENT
