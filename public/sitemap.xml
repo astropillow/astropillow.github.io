@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://mahpour.org/</loc>
+    </url>
+    <url>
+        <loc>https://mahpour.org/about/</loc>
+    </url>
+    <url>
+        <loc>https://mahpour.org/categories/</loc>
+    </url>
+    <url>
+        <loc>https://mahpour.org/categories/healthcare/</loc>
+    </url>
+    <url>
+        <loc>https://mahpour.org/posts/</loc>
+    </url>
+    <url>
+        <loc>https://mahpour.org/posts/statemedicine/</loc>
+        <lastmod>2025-05-01</lastmod>
+    </url>
+    <url>
+        <loc>https://mahpour.org/tags/</loc>
+    </url>
+    <url>
+        <loc>https://mahpour.org/tags/medicine/</loc>
+    </url>
+</urlset>
